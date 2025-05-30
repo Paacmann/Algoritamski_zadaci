@@ -1,0 +1,1 @@
+Vezbanje odredhenih algoritamskih zadataka
